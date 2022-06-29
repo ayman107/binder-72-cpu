@@ -1,2 +1,2 @@
-# binder-72-cpu
+# binder-150-cpu
 mybinder pc
